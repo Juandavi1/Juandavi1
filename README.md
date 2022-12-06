@@ -7,7 +7,7 @@ I'm Electronic Engineer since 2019 and I'm a physics enthusiast especially in so
 
 I work with languages like Assembler, VHDL, Java, JS, C# since 2015.   
 
-Cloud technologies are my bag these days; Kubernetes, Istio, Helm, Spark and Kafka. My latest obsession is the Go programming language; 
+Cloud technologies are my bag these days; Kubernetes, Istio, Helm, Spark and Kafka. My latest obsession is the Go programming language and distributed systems. 
 
 ___
 
