@@ -11,9 +11,9 @@ Cloud technologies are my bag these days; Kubernetes, Istio, Helm, Spark and Kaf
 
 ___
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Juandavi1)
+![trophy](https://github-profile-trophy.vercel.app/?username=Juandavi1&theme=onedark)
 
-![stats](https://streak-stats.demolab.com/?user=Juandavi1)
+![stats](https://streak-stats.demolab.com/?user=Juandavi1&theme=dark)
 
 <!--
 **Juandavi1/Juandavi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
