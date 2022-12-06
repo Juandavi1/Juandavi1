@@ -1,4 +1,15 @@
 ### Hi there 👋
+___
+
+__Juan David here.__  I'm currently a Developer at [Siigo](https://www.siigo.com/). In this role, I'm writing tools/libs to ease the tasks of Developers and SREs.
+
+
+
+___
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Juandavi1)
+
+![stats](https://streak-stats.demolab.com/?user=Juandavi1)
 
 <!--
 **Juandavi1/Juandavi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
