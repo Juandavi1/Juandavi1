@@ -3,7 +3,7 @@ ___
 
 __Juan David here.__ 🔭 I'm currently a Developer at [Siigo](https://www.siigo.com/). In this role, I'm writing tools/libs to ease Developers and SREs  tasks.
 
-I'm Electronic Engineer since 2019 and I'm a physics enthusiast especially in solid state devices and astronomy. 
+I'm Electronic Engineer since 2019 and I'm a physics enthusiast especially in Solid state devices and Astronomy. 
 
 I work with languages like Assembler, VHDL, Java, JS, C# since 2015.   
 
