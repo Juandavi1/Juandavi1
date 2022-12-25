@@ -1,7 +1,7 @@
 ### Hi there 👋
 ___
 
-__Juan David here.__ 🔭 I'm currently a Developer at [Siigo](https://www.siigo.com/). In this role, I'm writing tools/libs to ease Developers and SREs  tasks.
+__Juan David here.__ 🔭 I'm currently a Electronic Enginer and Software Architect. 
 
 I'm Electronic Engineer since 2019 and I'm a physics enthusiast especially in Solid state devices and Astronomy. 
 
