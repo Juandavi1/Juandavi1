@@ -3,7 +3,7 @@ ___
 
 __Juan David here.__ 🔭 I'm currently a Electronic Engineer and Software Architect. 
 
-I work with languages like Assembler, VHDL, Java, JS, C# since 2015.   
+I work with languages such as Python, VHDL, Java, JS, C# since 2015.   
 
 Cloud technologies are my bag these days; Kubernetes, Istio, Helm, Spark and Kafka. My latest obsession is the Go programming language and distributed systems. 
 
