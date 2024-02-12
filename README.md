@@ -1,7 +1,7 @@
 ### Hi there 👋
 ___
 
-__Juan David here.__ 🔭 I'm currently a Electronic Engineer and Software Architect. 
+__Juan David here.__ 🔭 I'm Electronic Engineer. 
 
 I work with languages such as Python, VHDL, Java, JS, C# since 2015.   
 
